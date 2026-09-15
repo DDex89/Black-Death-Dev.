@@ -1,6 +1,11 @@
-# ☣️ Black Death Dev.
-
-### Hardware • Electronics • Cars • Motorcycles • Drones • Robotics • Embedded • Reverse Engineering
+<p align="center">
+  <img src="./black-death-dev-banner.png"
+       alt="Black Death Dev."
+       width="100%">
+</p>
+ 
+ 
+ 
 
 **Hardware enthusiast, tinkerer, and creator of questionable engineering projects.**  
 *Любитель железа, электроники и сомнительных инженерных проектов.*
