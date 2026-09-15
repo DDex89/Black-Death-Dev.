@@ -68,7 +68,7 @@ Features:
 
 Because configuring a $2 Bluetooth module shouldn't require an archaeological expedition through 15 years of forum posts.
 
-*Потому что настройка Bluetooth-модуля за 2$ не должна превращаться в 15 летнюю археологическую экспедицию по старым форумам.*
+*Потому что настройка Bluetooth-модуля за 2$ не должна превращаться в 15-летнюю археологическую экспедицию по старым форумам.*
 
 ---
 
@@ -96,7 +96,7 @@ If you'd like to support future projects — or help replace the next MOSFET tha
 ---
 
 <p align="center">
-  <b>☣️ BLACK DEATH DEV ☣️</b><br><br>
+  <b>☣️ BLACK DEATH DEV. ☣️</b><br><br>
   <i>May your ideas work and your MOSFETs stay cool.</i><br>
   <i>Пусть идеи работают, а MOSFET-ы остаются холодными.</i>
 </p>
