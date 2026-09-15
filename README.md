@@ -63,7 +63,7 @@ Features:
 
 Because configuring a $2 Bluetooth module shouldn't require an archaeological expedition through 15 years of forum posts.
 
-*Потому что настройка Bluetooth-модуля за пару долларов не должна превращаться в археологическую экспедицию по старым форумам.*
+*Потому что настройка Bluetooth-модуля за 2$ не должна превращаться в 15 летнюю археологическую экспедицию по старым форумам.*
 
 ---
 
