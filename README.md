@@ -1,33 +1,55 @@
-# Hi there! I'm Black Death Dev. 🛠️💨
+# ☣️ Black Death Dev
 
-### Hardware enthusiast, tinkerer, and questionable project creator.
+### Hardware • Electronics • Cars • Motorcycles • Drones • Robotics • Embedded
 
-I build, fix, modify, and experiment with electronics, motorcycles, drones, robotics, and whatever else looks interesting enough to take apart. 
+**Hardware enthusiast, tinkerer, and creator of questionable projects.**  
+*Любитель железа, электроники и сомнительных инженерных проектов.*
 
-Mostly turning crazy ideas into working prototypes — with the help of AI, lots of duct tape, and the occasional burned MOSFET along the way. 😄
+I build, repair, modify, and reverse-engineer electronics, cars, motorcycles, drones, robots, and embedded systems.
 
----
+*Собираю, ремонтирую, переделываю и исследую электронику, автомобили, мотоциклы, дроны, роботов и встраиваемые системы.*
 
-### 🧰 What I'm into / Чем я занимаюсь
-* **Hardware & Electronics:** Designing circuits, soldering, and making sensors, modules, and microcontrollers work together.
-* **Motorcycles & Mechanics:** Customizing, fixing, and modifying bikes in the garage.
-* **Drones & Robotics:** Building and tuning quadcopters and RC models.
-* **Pragmatic Coding:** I'm not a professional software engineer — I write code with the help of AI and workarounds (костыли) to make my hardware ideas actually come alive.
+Most projects involve **AI, soldering, oscilloscopes, improvisation, and occasionally a burned MOSFET.** 😄
 
----
-
-### 🚀 Featured Project / Мой главный проект
-* **Bluetooth UART Configurator** — A cross-platform tool I made to escape the nightmare of manual Bluetooth module configuration (HC-05/06, JDY). It automatically finds baud rates and fixes AT-command syntax so you don't have to. Works on Windows and Android via OTG.
+*Обычно в процессе участвуют ИИ, паяльник, осциллограф, импровизация и иногда сгоревший MOSFET.*
 
 ---
 
-### 🍺 Support the Magic Smoke / Поддержать мастерскую
-If you'd like to support the next project — or the inevitable MOSFET that goes up in smoke — thank you! 😄
+## 🧰 What I'm into / Чем занимаюсь
 
-* **Global (Coffee/Beer):** [Ko-fi](https://ko-fi.com)
-* **CIS / Russia (На пивко/Кофе):** [Boosty](https://boosty.to)
+- ⚡ **Electronics** — circuits, soldering, diagnostics, power electronics, MCUs
+- 🚗 **Cars & Motorcycles** — repair, diagnostics, electronics, modifications
+- 🚁 **Drones & Robotics** — quadcopters, RC aircraft, robots, control systems
+- 🔬 **Embedded & Reverse Engineering** — UART, SPI, I²C, firmware, unknown hardware
+- 💻 **Pragmatic Coding** — AI-assisted code and carefully engineered костыли
 
 ---
+
+## 🚀 Featured Project / Главный проект
+
+### Bluetooth UART Configurator
+
+Cross-platform tool for configuring **HC-05, HC-06, JDY** and similar Bluetooth UART modules.
+
+*Утилита для автоматической настройки Bluetooth UART-модулей.*
+
+- automatic baud-rate detection
+- AT-command handling
+- Windows
+- Android via USB OTG
+
+> Because configuring a $2 Bluetooth module shouldn't require 15 years of forum archaeology.
+
+---
+
+## 🍺 Support the Magic Smoke
+
+- ☕ [Ko-fi](https://ko-fi.com/)
+- 🍺 [Boosty](https://boosty.to/)
+
+---
+
 <p align="center">
-  <i>"May your ideas work and your MOSFETs stay cool."</i>
+  <i>May your ideas work and your MOSFETs stay cool.</i><br>
+  <i>Пусть идеи работают, а MOSFET-ы остаются холодными.</i>
 </p>
