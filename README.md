@@ -39,7 +39,7 @@ Cross-platform tool for configuring **HC-05, HC-06, JDY** and similar Bluetooth 
 - Android via USB OTG
 
 > Because configuring a $2 Bluetooth module shouldn't require 15 years of forum archaeology.  
-> *Потому что настройка Bluetooth-модуля за два доллара не должна превращаться в археологическую экспедицию по форумам за последние пятнадцать лет.*
+> *Потому что настройка Bluetooth-модуля за 2$ не должна превращаться в 15 летнюю археологическую экспедицию по форумам.*
 
 ---
 
