@@ -1,4 +1,4 @@
-# Hi there! I'm Black Death Dev 🛠️💨
+# Hi there! I'm Black Death Dev. 🛠️💨
 
 ### Hardware enthusiast, tinkerer, and questionable project creator.
 
