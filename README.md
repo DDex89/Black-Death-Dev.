@@ -1,4 +1,4 @@
-# Hi there! I'm Black Death Dev. 🛠️💨
+# Hi there! I'm Black Death Dev 🛠️💨
 
 ### Hardware enthusiast, tinkerer, and questionable project creator.
 
@@ -8,7 +8,7 @@ Mostly turning crazy ideas into working prototypes — with the help of AI, lots
 
 ---
 
-### 🧰 What I'm into
+### 🧰 What I'm into / Чем я занимаюсь
 * **Hardware & Electronics:** Designing circuits, soldering, and making sensors, modules, and microcontrollers work together.
 * **Motorcycles & Mechanics:** Customizing, fixing, and modifying bikes in the garage.
 * **Drones & Robotics:** Building and tuning quadcopters and RC models.
@@ -16,16 +16,16 @@ Mostly turning crazy ideas into working prototypes — with the help of AI, lots
 
 ---
 
-### 🚀 Featured Project
-* **[Bluetooth UART Configurator]** — A cross-platform tool I made to escape the nightmare of manual Bluetooth module configuration (HC-05/06, JDY). It automatically finds baud rates and fixes AT-command syntax so you don't have to. Works on Windows and Android via OTG.
+### 🚀 Featured Project / Мой главный проект
+* **Bluetooth UART Configurator** — A cross-platform tool I made to escape the nightmare of manual Bluetooth module configuration (HC-05/06, JDY). It automatically finds baud rates and fixes AT-command syntax so you don't have to. Works on Windows and Android via OTG.
 
 ---
 
-### 🍺 Support the Magic Smoke
+### 🍺 Support the Magic Smoke / Поддержать мастерскую
 If you'd like to support the next project — or the inevitable MOSFET that goes up in smoke — thank you! 😄
 
-* **Global (Coffee/Beer):** [Ссылка на Buy Me a Coffee / Ko-fi] (ko-fi.com/kddex)
-* **CIS / Russia (Чаевые):** [Ссылка на CloudTips / Boosty / ЮMoney] (boosty.to/kddex)
+* **Global (Coffee/Beer):** [Ko-fi](https://ko-fi.com)
+* **CIS / Russia (Чаевые):** [Boosty](https://boosty.to)
 
 ---
 <p align="center">
