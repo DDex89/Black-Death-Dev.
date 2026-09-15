@@ -44,9 +44,8 @@ Cross-platform tool for configuring **HC-05, HC-06, JDY** and similar Bluetooth 
 
 ## 🍺 Support the Magic Smoke
 
-- ☕ [Ko-fi](https://ko-fi.com/)
-- 🍺 [Boosty](https://boosty.to/)
-
+- ☕ [Ko-fi](https://ko-fi.com/kddex)
+- 🍺 [Boosty](https://boosty.to/kddex)
 ---
 
 <p align="center">
