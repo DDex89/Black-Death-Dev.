@@ -1,4 +1,4 @@
-# Hi there! I'm Black Death Dev 🛠️💨
+# Hi there! I'm Black Death Dev. 🛠️💨
 
 ### Hardware enthusiast, tinkerer, and questionable project creator.
 
@@ -25,7 +25,7 @@ Mostly turning crazy ideas into working prototypes — with the help of AI, lots
 If you'd like to support the next project — or the inevitable MOSFET that goes up in smoke — thank you! 😄
 
 * **Global (Coffee/Beer):** [Ko-fi](https://ko-fi.com)
-* **CIS / Russia (Чаевые):** [Boosty](https://boosty.to)
+* **CIS / Russia (На пивко/Кофе):** [Boosty](https://boosty.to)
 
 ---
 <p align="center">
