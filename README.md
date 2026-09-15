@@ -14,7 +14,9 @@ I build, repair, modify, reverse-engineer, and experiment with electronics, cars
 
 *Собираю, ремонтирую, переделываю и исследую электронику, автомобили, мотоциклы, дроны, роботов, embedded-системы и вообще всё, что выглядит достаточно интересно, чтобы это разобрать.*
 
-Most projects involve **AI, soldering, oscilloscopes, improvisation, a few carefully engineered костыли — and occasionally a burned MOSFET.** 😄
+Projects involve **AI, soldering, oscilloscopes, improvisation, a few carefully engineered kludges — and occasionally a burned MOSFET.** 😄
+
+*В проектах участвуют **ИИ, пайка, осциллографы, импровизация, несколько тщательно спроектированных костылей — и иногда сгоревший MOSFET.*** 😄
 
 ---
 
