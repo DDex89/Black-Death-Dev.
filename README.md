@@ -1,4 +1,4 @@
-# ☣️ Black Death Dev
+# ☣️ Black Death Dev.
 
 ### Hardware • Electronics • Cars • Motorcycles • Drones • Robotics • Embedded • Reverse Engineering
 
